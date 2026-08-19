@@ -73,6 +73,30 @@ public class Jaswanth implements SoftwareDeveloper {
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/vanapallijaswanth2005/placement-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=placement-portal&theme=radical&hide_border=true" alt="Placement Portal" width="48%" />
+  </a>
+  <a href="https://github.com/vanapallijaswanth2005/URL_SHORTENER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=URL_SHORTENER&theme=radical&hide_border=true" alt="URL Shortener" width="48%" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/vanapallijaswanth2005/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=Portfolio&theme=radical&hide_border=true" alt="Portfolio" width="48%" />
+  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&height=125&lines=Project+In+Progress;Coming+Soon...;Stay+Tuned!" alt="Coming Soon Placeholder 1" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=400&height=125&lines=Another+Awesome+Project;Under+Development;Watch+This+Space!" alt="Coming Soon Placeholder 2" width="48%" />
+</div>
+
+---
+
 ## 📊 GitHub Stats & Repositories
 
 <div align="center">
