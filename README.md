@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring logo" />
+<img align="right" width="250" src="https://github.com/vanapallijaswanth2005.png?size=250" alt="Profile Picture" />
 
 ## 🧑‍💻 About Me
 
