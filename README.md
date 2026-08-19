@@ -8,29 +8,9 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://jaswanthjassu18.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jaswanth-vanapalli-911111400/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vanapallijaswanth2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/Jaswanth_Vanapalli/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/jaswanthjassu" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</div>
-
-<br/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring logo" />
 
 ## 🧑‍💻 About Me
-
-<img align="right" src="https://jaswanthjassu18.vercel.app/hero-profile.png" alt="Profile Picture" width="280" />
 
 ```java
 public class Jaswanth implements SoftwareDeveloper {
@@ -52,6 +32,30 @@ public class Jaswanth implements SoftwareDeveloper {
 - 🎓 **Java Full Stack Virtual Internship Certified** — AICTE Eduskills.
 - 🎯 Constantly sharpening my DSA and System Design skills.
 
+<br clear="right"/>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://jaswanthjassu18.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jaswanth-vanapalli-911111400/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vanapallijaswanth2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/Jaswanth_Vanapalli/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/jaswanthjassu" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -72,12 +76,12 @@ public class Jaswanth implements SoftwareDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanapallijaswanth2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanapallijaswanth2005&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanapallijaswanth2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanapallijaswanth2005&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanapallijaswanth2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanapallijaswanth2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
 </div>
 
 ---
