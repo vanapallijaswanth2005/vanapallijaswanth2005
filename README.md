@@ -73,7 +73,7 @@ public class Jaswanth implements SoftwareDeveloper {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Repositories
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanapallijaswanth2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -81,7 +81,14 @@ public class Jaswanth implements SoftwareDeveloper {
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanapallijaswanth2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
+  <a href="https://github.com/vanapallijaswanth2005/Leetcode_Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=Leetcode_Solutions&theme=radical&hide_border=true" alt="Leetcode Solutions Repo" width="48%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanapallijaswanth2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanapallijaswanth2005&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
