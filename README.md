@@ -132,8 +132,9 @@ public class Jaswanth implements SoftwareDeveloper {
     <td width="50%" valign="top">
       <a href="https://github.com/vanapallijaswanth2005/Portfolio"><h3>👨‍💻 Personal Portfolio</h3></a>
       <p>A modern, interactive, and responsive portfolio showcasing my projects, skills, and experience.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h3>✨ More coming soon...</h3>
