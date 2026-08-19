@@ -30,6 +30,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" src="https://jaswanthjassu18.vercel.app/hero-profile.png" alt="Profile Picture" width="280" />
+
 ```java
 public class Jaswanth implements SoftwareDeveloper {
     String role            = "Aspiring Backend Developer";
@@ -70,12 +72,12 @@ public class Jaswanth implements SoftwareDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanapallijaswanth2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanapallijaswanth2005&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanapallijaswanth2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanapallijaswanth2005&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanapallijaswanth2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanapallijaswanth2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
