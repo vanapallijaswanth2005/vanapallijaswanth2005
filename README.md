@@ -73,27 +73,42 @@ public class Jaswanth implements SoftwareDeveloper {
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/vanapallijaswanth2005/placement-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=placement-portal&theme=radical&hide_border=true" alt="Placement Portal" width="48%" />
-  </a>
-  <a href="https://github.com/vanapallijaswanth2005/URL_SHORTENER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=URL_SHORTENER&theme=radical&hide_border=true" alt="URL Shortener" width="48%" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/vanapallijaswanth2005/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanapallijaswanth2005&repo=Portfolio&theme=radical&hide_border=true" alt="Portfolio" width="48%" />
-  </a>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=400&height=125&lines=Project+In+Progress;Coming+Soon...;Stay+Tuned!" alt="Coming Soon Placeholder 1" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=400&height=125&lines=Another+Awesome+Project;Under+Development;Watch+This+Space!" alt="Coming Soon Placeholder 2" width="48%" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vanapallijaswanth2005/placement-portal"><h3>🎯 Placement Portal</h3></a>
+      <p>A comprehensive platform for managing college placements, student profiles, and recruiter interactions.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vanapallijaswanth2005/URL_SHORTENER"><h3>🔗 URL Shortener</h3></a>
+      <p>A fast, secure, and rate-limited URL shortening service built with robust authentication and tracking.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vanapallijaswanth2005/Portfolio"><h3>👨‍💻 Personal Portfolio</h3></a>
+      <p>A modern, interactive, and responsive portfolio showcasing my projects, skills, and experience.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ More coming soon...</h3>
+      <p>Always building. Check out my GitHub for the latest work-in-progress repos.</p>
+      <br/>
+      <a href="https://github.com/vanapallijaswanth2005?tab=repositories">
+        <img src="https://img.shields.io/badge/VIEW_MORE-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
