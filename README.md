@@ -28,9 +28,11 @@ public class Jaswanth implements SoftwareDeveloper {
 ```
 
 - 🏆 **1000+** coding problems solved across platforms.
+- 🧩 **200+** problems solved on LeetCode.
 - 🚀 **1300+** rating achieved on CodeChef.
 - 🎓 **Java Full Stack Virtual Internship Certified** — AICTE Eduskills.
 - 🎯 Constantly sharpening my DSA and System Design skills.
+- 📫 **Reach me at:** vanapallijaswanth2005@gmail.com
 
 <br clear="right"/>
 
