@@ -42,6 +42,9 @@ public class Jaswanth implements SoftwareDeveloper {
   <a href="https://jaswanthjassu18.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://github.com/vanapallijaswanth2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/jaswanth-vanapalli-911111400/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -117,6 +120,20 @@ public class Jaswanth implements SoftwareDeveloper {
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/u/Jaswanth_Vanapalli/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/jaswanthjassu" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-1350%2B_RATING-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <img src="https://img.shields.io/badge/Streak-50%2B_DAYS-FF4B4B?style=for-the-badge" alt="Streak"/>
+</div>
 
 ---
 
