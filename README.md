@@ -27,7 +27,7 @@ public class Jaswanth implements SoftwareDeveloper {
 }
 ```
 
-- 🏆 **1000+** coding problems solved across LeetCode, CodeChef, and SkillRack.
+- 🏆 **1000+** coding problems solved across platforms, including **200+** on LeetCode.
 - 🚀 **1300+** rating achieved on CodeChef.
 - 🎓 **Java Full Stack Virtual Internship Certified** — AICTE Eduskills.
 - 🎯 Constantly sharpening my DSA and System Design skills.
@@ -85,22 +85,18 @@ public class Jaswanth implements SoftwareDeveloper {
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/vanapallijaswanth2005/URL_SHORTENER"><h3>🔗 URL Shortener</h3></a>
       <p>A fast, secure, and rate-limited URL shortening service built with robust authentication and tracking.</p>
-      <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot_3.2-F2F4F9?style=flat-square&logo=spring-boot" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/Bucket4j-FF6C37?style=flat-square" />
-      <img src="https://img.shields.io/badge/Lombok-BC2026?style=flat-square&logo=lombok&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <br>
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
