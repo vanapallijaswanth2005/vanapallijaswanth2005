@@ -65,28 +65,29 @@ public class Jaswanth implements SoftwareDeveloper {
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages**
-<p>
+<div align="center">
+
+**Languages**<br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
 
-**Backend Development**
-<p>
+<br>
+
+**Backend Development**<br>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=spring&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
-</p>
 
-**Database**
-<p>
+<br>
+
+**Database**<br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
 
-**Cloud & Tools**
-<p>
+<br>
+
+**Cloud & Tools**<br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -95,7 +96,8 @@ public class Jaswanth implements SoftwareDeveloper {
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-</p>
+
+</div>
 
 ---
 
